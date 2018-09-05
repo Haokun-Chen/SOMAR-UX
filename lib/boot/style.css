@@ -62,6 +62,7 @@ code {
   color: #888;
   font-size: 14px;
   margin: 0;
+  margin-bottom: 10px;
 }
 
 #sidebar ul {
@@ -72,6 +73,7 @@ code {
 
 #sidebar ul#links {
   padding: 20px;
+  padding-top: 10px;
 }
 
 #sidebar ul ul {
@@ -81,7 +83,7 @@ code {
 #sidebar ul li a {
   color: #fff;
   display: block;
-  padding: 0 0 15px;
+  padding: 0 0 10px;
 }
 #sidebar ul li a:active,
 #sidebar ul li a.active {
