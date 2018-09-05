@@ -28,6 +28,16 @@ layout: default
     </article>
   {% endfor %}
 
+  {% assign sorted_sprint= site.sprint | sort:'order' %}
+  {% for section in sorted_sprint %}
+    <article class='{{ section.type }}'>
+      <a name='{{ section.url }}' href='#{{ section.url }}'><h2>{% if section.type %}<code><b>{{ section.type }}</b> {{ section.path }}</code> {% endif %}{{ section.title }}</h2></a>
+      <section class='body'>
+        {{ section.content }}
+      </section>
+    </article>
+  {% endfor %}
+
 
 <!-- {% for post in site.posts %}
   <article class='{{ post.type }}'>
