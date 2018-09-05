@@ -4,3 +4,7 @@ permalink: ':title'
 pygments: true
 safe: false
 title: 'COMP 523 SOMAR-UX'
+collections:
+  - general
+  - requirement
+  - sprint

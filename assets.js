@@ -9709,8 +9709,12 @@ hide.click(function () {
 });
 $('#content').prepend(hide);
 
+$( document ).ready(function() {
+    show.click();
+});
+
 // Making our navigation sticky
-new Filter($('#sidebar > ul'));
+// new Filter($('#sidebar > ul'));
 });
 require.alias("boot/index.js", "carte/deps/boot/index.js");
 
