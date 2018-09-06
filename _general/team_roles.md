@@ -2,4 +2,7 @@
 title: 'Team Roles'
 order: 4
 ---
-Team roles
+Client Manager: Jacob
+Project Manager: Haokun
+Chief Architect: Nathaniel
+Editor: Kiru
