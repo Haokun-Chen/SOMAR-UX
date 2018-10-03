@@ -13,6 +13,8 @@ order: 6
         - Understand how the current input setup process in C++ in SOMAR. Currently using a setICs function to configure the input
         - Discuss how Python could possibly handle and communicate with SOMAR using numpy
         - Decide to embed Python into C++ code and call Python interpreter from C++ instead of the other way around calling C++ from Python
+    - September 27:
+        - Go over deeper into the LevelData object and obtain relevant documentations
 
 - Team meeting:
     - September 19: Get SOMAR working on the virtual machine, successfully launch SOMAR and obtain output
