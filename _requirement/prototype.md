@@ -7,7 +7,7 @@ This Python setup process could potentially:<br/>
 1.  Communicate with each SOMAR instance to provide the correct input parameters configuration
 2.  Run mpipy to communicate among all Python process in each SOMAR instance to produce the correct input parameters files, which could be upload to SOMAR later to launch the computation
 
-Prototype 1:
+Prototype:
 
 SOMAR -- SOMAR -- SOMAR -- SOMAR <br/><br/>
  each insance launches <br/><br/>
