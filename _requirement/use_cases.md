@@ -18,6 +18,6 @@ For Common oceanographer and environmental fluid mechanic practitioners
     - To set up tracers for further graphing need
 4. Add the x/y/z-tracer scaler component for the experiment
     - Select all coordinates and assign initial physical position to their x/y/z-traver subarrays
-    - Change the Python file name or function name
-5. Update file or function name
+5. Change the Python file name or function name
+    - Update file or function name
     - Update the imported Python module name and function name in C++

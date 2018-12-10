@@ -1,6 +1,6 @@
 ---
 title: 'Team Rules'
-order: 5
+order: 6
 ---
 - Meeting will begin at most 5 minutes after scheduled time
 - If you don't receive a response to a quesiton you have, assume nothing has changed since the last update, unless you can show it has

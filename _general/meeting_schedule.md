@@ -1,6 +1,6 @@
 ---
 title: 'Meeting Schedule'
-order: 2
+order: 3
 ---
 The schedule of reuglar meetings is the following:
 

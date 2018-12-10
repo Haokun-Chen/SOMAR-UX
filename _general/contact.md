@@ -1,6 +1,6 @@
 ---
 title: 'Contact Information'
-order: 3
+order: 4
 ---
 Haokun Chen: chenhk@live.unc.edu<br/>
 Jacob Fisher: jacobdf@live.unc.edu<br/>

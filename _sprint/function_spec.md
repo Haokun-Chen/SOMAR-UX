@@ -27,4 +27,4 @@ order: 1
     - Global parameters (dimensions, domain sizes) should be only passed to Python once (from the input text file which further got processed in ParmParse in C++). This is parsed as a dictionary of key-value pairs of parameters
     - Box-specific parameters (boundaries, box sizes) are passed to Python instance call
 - Provide a sample program that users can mimic and modify
-- Clean structured, and easy-to-use implementation so that users can do further customization such as adding additional scalar component
+- Clean structured, and easy-to-use implementation so that users can do further customization such as adding additional scalar component or update/add new Python functions

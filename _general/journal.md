@@ -1,6 +1,6 @@
 ---
 title: 'Meeting Journal'
-order: 6
+order: 7
 ---
 - Client meeting:
     - August 30: 

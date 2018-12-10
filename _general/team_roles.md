@@ -1,6 +1,6 @@
 ---
 title: 'Team Roles'
-order: 4
+order: 5
 ---
 Client Manager: Jacob <br/>
 Project Manager: Haokun <br/>
