@@ -2,6 +2,8 @@
 title: 'Meeting Journal'
 order: 7
 ---
+<a href="https://docs.google.com/document/d/1K2J8hJD2XZ84wgVDgzYM0znV66o9WivvvzIEO4azQtg/edit?usp=sharing">Complete meeting and sprint journal<a/>
+
 - Client meeting:
     - August 30: 
         - Introduction to the project, get to know more about SOMAR architecture and dependencies
