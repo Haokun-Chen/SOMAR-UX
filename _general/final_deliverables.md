@@ -21,4 +21,4 @@ Since users can be the administrator (changing the configuration of the system a
 We don't really have  deployed application. User can compile and run directly from the code themself
 <br/>
 <br/>
-<a href="https://docs.google.com/document/d/1QjSoUf73yMv74sdiQ94xpuLRY_PuJA5VXJMWR2jrj48/edit?usp=sharing">Video<a/>
+<a href="https://drive.google.com/file/d/1LUZeNhzWwTThlChbyzCJ3uNC0p46lEWV/view">Video<a/>
