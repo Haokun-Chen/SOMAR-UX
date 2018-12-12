@@ -3,6 +3,8 @@ title: 'Final Deliverable'
 order: 1
 isAcrive: active
 ---
+<a href="https://docs.google.com/presentation/d/1K3bj93qLTPcCpkeMftg-nRAPUSfTWghp3XvzO1CttDY/edit?usp=sharing">Final Presentation<a/>
+
 <a href="https://docs.google.com/document/d/17BHaBeJ_Pb-af8dnZlsvXlmJtmJX9mHQS7cUrUd8LsU/edit?usp=sharing">Functional Specification<a/>
 <br/>
 <a href="https://docs.google.com/document/d/1QjSoUf73yMv74sdiQ94xpuLRY_PuJA5VXJMWR2jrj48/edit?usp=sharing">Design Doc<a/>
